@@ -1,2 +1,4 @@
 # hello-world
-Just another first repository
+I want to have fun.
+
+It is another post.
